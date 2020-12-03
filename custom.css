@@ -1,20 +1,24 @@
-div {
-    display: inline-block;
-    width: 100%;
-    background-color: red;
-    text-align: center;
+body {
+    background-color: #EBECEE;
 }
 
-h1 {
-    text-align: center;
-}
+    div {
+        display: inline-block;
+        width: 100%;
+        background-color: red;
+        text-align: center;
+    }
 
-p {
-    display: inline-block;
-    width: 100%;
-    background-color: black;
-    color: white;
-    text-align: center;
-    font-size: 100px;
+    h1 {
+        text-align: center;
+    }
 
-}
+    p {
+        display: inline-block;
+        width: 100%;
+        background-color: black;
+        color: white;
+        text-align: center;
+        font-size: 100px;
+
+    }
